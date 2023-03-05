@@ -1,0 +1,6 @@
+Lod#18km#24km#21km
+Ramla#19km#20km#20km
+Selfit#38km#76km#56km
+Qalqilya#22km#48km#35km
+Tulkarem#35km#57km#46km
+Nazareth#85km#125km#105km

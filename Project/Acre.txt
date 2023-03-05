@@ -1,0 +1,4 @@
+Haifa#15km#35km#25km
+Nazareth#33km#50km#41km
+Tiberias#45km#59km#52km
+Safed#40km#54km#47km

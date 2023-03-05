@@ -1,0 +1,1 @@
+Ramallah:0, Jerusalem:22 ,Jericho:53 ,Nablus:44 ,Selfit:38 ,Lod:36 ,Ramla:40 ,Bethlehem:31 ,Hebron:98 ,

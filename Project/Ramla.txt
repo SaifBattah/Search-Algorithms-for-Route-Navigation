@@ -1,0 +1,7 @@
+Hebron#49km#107km#78km
+Bethlehem#39km#315km#177km
+Ramallah#39km#45km#42km
+Jerusalem#38km#45km#42km
+Lod#3km#4km#3km
+Jaffa#19km#20km#20km
+Gaza#61km#69km#65km

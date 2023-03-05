@@ -1,0 +1,4 @@
+Jerusalem#38km#42km#40km
+Ramallah#20km#53km#37km
+Nablus#44km#130km#87km
+Tubas#52km#164km#108km
